@@ -106,4 +106,6 @@ This project successfully demonstrates sentiment analysis using RNN with LSTM on
 - **Abhijeet**  
 - **Jhalki Kulshrestha**
 
+Code - Abhijeet
+Project Report - Abhijeet & Jhalki
 ---
